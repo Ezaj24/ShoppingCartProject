@@ -6,10 +6,10 @@ Features:
 
 * **Product display with prices and available quantities.**
 
-Option to confirm and complete the purchase.
+* **Option to confirm and complete the purchase.**
 
-Error handling for invalid user inputs (FormatException).
+* **Error handling for invalid user inputs (FormatException).**
 
-Dynamic stock update after each purchase.
+* **Dynamic stock update after each purchase.**
 
 This project demonstrates basic C# programming concepts like arrays, exception handling, user input, loops, and conditionals.
