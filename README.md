@@ -4,7 +4,7 @@ This is a simple console-based shopping cart program built using C#. The app sim
 
 Features:
 
-Product display with prices and available quantities.
+* **Product display with prices and available quantities.**
 
 Option to confirm and complete the purchase.
 
