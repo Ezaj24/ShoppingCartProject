@@ -12,4 +12,4 @@ Features:
 
 * **Dynamic stock update after each purchase.**
 
-This project demonstrates basic C# programming concepts like arrays, exception handling, user input, loops, and conditionals.
+This project demonstrates basic C# programming concepts like arrays, exception handling, user input, loops, and conditionals .
